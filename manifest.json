@@ -1,0 +1,29 @@
+{  
+    "name":"LaVenganzaDeMaria",
+    "short_name":"LVDM",
+    "description":"La Venganza de Maria es un videojuego shooting de terror desarrollado en Unity",
+    "lang":"es-ES",
+    "dir":"ltr",
+    "display":"minimal-ui",
+    "orientation":"vertical",
+    "background_color":"black",
+    "theme_color":"black",
+    "scope": "./",
+    "icons":[  
+       {  
+          "src":"images/illustration-intro.png",
+          "sizes":"512x512",
+          "type":"image/png"
+       },
+       {  
+            "src":"images/profile-2.png",
+            "sizes":"256x256",
+            "type":"image/png"
+        },
+        {  
+            "src":"images/profile-1.png",
+            "sizes":"128x128",
+            "type":"image/png"
+        }
+    ]
+ }
